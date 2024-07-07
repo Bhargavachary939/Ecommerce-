@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  .product-image {
+    float: center;
+    width: 40%;
+    padding: 20px;
+  }
+  
+  .product-info {
+    float: center;
+    width: 60%;
+    padding: 20px;
+  }
+  
+  footer {
+    text-align: left;
+    padding: 20px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
